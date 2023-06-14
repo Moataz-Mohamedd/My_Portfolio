@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moataz-Mohamedd/My_Portfolio/static/css/main.d886f856.css",
+    "main.js": "/Moataz-Mohamedd/My_Portfolio/static/js/main.b17397a6.js",
+    "index.html": "/Moataz-Mohamedd/My_Portfolio/index.html",
+    "main.d886f856.css.map": "/Moataz-Mohamedd/My_Portfolio/static/css/main.d886f856.css.map",
+    "main.b17397a6.js.map": "/Moataz-Mohamedd/My_Portfolio/static/js/main.b17397a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d886f856.css",
+    "static/js/main.b17397a6.js"
+  ]
+}
